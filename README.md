@@ -8,7 +8,7 @@
 # $ pkg install git
 # $ git clone https://github.com/cybercracking/joker
 # $ cd joker
-# $ sh joker.sh
+# $ sh ra.sh
 
 # **----------------------**
 # **Jika sudah masuk silahkan pilih nomor 1 dulu untuk mendowdload username dan pasword nya jika**
